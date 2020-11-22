@@ -22,7 +22,7 @@ import com.opensymphony.xwork2.ActionSupport;
 /**
  * 用户操作
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class UserWebAction extends ActionSupport {	

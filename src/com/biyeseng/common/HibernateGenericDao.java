@@ -33,7 +33,7 @@ import org.springframework.util.ReflectionUtils;
 /**
  *
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 @SuppressWarnings("unchecked")

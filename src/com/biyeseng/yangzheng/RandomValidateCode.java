@@ -14,7 +14,7 @@ import javax.servlet.http.HttpSession;
 /**
  * 验证码
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class RandomValidateCode {

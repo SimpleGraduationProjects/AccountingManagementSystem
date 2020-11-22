@@ -3,7 +3,7 @@ package com.biyeseng.common;
 /**
  * 
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public final class Constants {

@@ -12,7 +12,7 @@ import com.biyeseng.vo.Zhang;
 /**
  * 
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class ZhangDAOImpl extends HibernateGenericDao<Zhang> implements	

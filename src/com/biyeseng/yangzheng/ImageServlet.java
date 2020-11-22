@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 验证码
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class ImageServlet extends HttpServlet {

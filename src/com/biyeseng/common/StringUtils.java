@@ -4,7 +4,7 @@ package com.biyeseng.common;
 /**
  * 字符串操作类
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class StringUtils 

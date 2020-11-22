@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * 静态变量
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class DataSource {

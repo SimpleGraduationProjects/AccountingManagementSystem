@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * 管理员
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class AdminWebAction extends ActionSupport {	

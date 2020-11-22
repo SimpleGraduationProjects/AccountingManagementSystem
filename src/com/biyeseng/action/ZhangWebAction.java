@@ -28,7 +28,7 @@ import com.opensymphony.xwork2.ActionSupport;
 /**
  * 记账Action
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class ZhangWebAction extends ActionSupport {	

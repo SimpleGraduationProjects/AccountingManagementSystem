@@ -9,7 +9,7 @@ import com.biyeseng.vo.User;
 /**
  * 
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class UserServiceImpl implements UserService {	

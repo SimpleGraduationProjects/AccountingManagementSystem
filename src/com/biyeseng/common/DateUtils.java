@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * 日期工具类
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class DateUtils {

@@ -10,7 +10,7 @@ import org.hibernate.annotations.GenericGenerator;
 /**
  * 
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 @Entity	

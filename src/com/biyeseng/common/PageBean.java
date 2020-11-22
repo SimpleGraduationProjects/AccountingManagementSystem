@@ -9,7 +9,7 @@ import org.apache.commons.validator.GenericValidator;
 /**
  * 分页Bean
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class PageBean { 

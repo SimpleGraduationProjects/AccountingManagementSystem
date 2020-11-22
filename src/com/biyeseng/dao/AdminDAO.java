@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public interface AdminDAO	

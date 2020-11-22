@@ -123,7 +123,7 @@ function logout(){
        <iframe name="right" id="rightMain" src="<%=path %>/version.jsp" frameborder="no" scrolling="auto" width="100%" height="auto" allowtransparency="true"></iframe>
     </div>
     <div class="bottom">
-      <div id="bottom_bg"><a href="http://www.biyeseng.cn" target="_blank">毕业就找毕业僧(biyeseng.cn)</a></div>
+      <div id="bottom_bg"><a href="http://www.baidu.com" target="_blank">毕业就找毕业僧(baidu.com)</a></div>
     </div>
   
 </body>

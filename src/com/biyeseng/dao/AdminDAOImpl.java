@@ -12,7 +12,7 @@ import com.biyeseng.vo.Admin;
 /**
  * 
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class AdminDAOImpl extends HibernateGenericDao<Admin> implements	

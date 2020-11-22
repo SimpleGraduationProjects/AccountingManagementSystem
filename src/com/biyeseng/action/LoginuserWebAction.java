@@ -26,7 +26,7 @@ import com.opensymphony.xwork2.ActionSupport;
 /**
  * 登录操作
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class LoginuserWebAction extends ActionSupport {

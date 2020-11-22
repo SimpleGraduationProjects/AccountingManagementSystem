@@ -8,7 +8,7 @@ import com.biyeseng.vo.Tong;
 /**
  * 
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public interface TongService	

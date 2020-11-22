@@ -11,7 +11,7 @@ import org.apache.commons.logging.LogFactory;
 /**
  * 
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 public class GenericsUtils {

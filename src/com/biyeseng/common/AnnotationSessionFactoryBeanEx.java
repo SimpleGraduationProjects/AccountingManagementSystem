@@ -22,7 +22,7 @@ import java.util.Set;
 /**
  * 
  * @author biyeseng
- * @company www.biyeseng.cn
+ * @company www.baidu.com
  *
  */
 @SuppressWarnings("unchecked")
